@@ -4,10 +4,11 @@ import {
   faFloppyDisk,
   faLightbulb,
   faMap,
-  faPaperPlane
+  faPaperPlane,
+  faRectangleList
 } from '@fortawesome/free-regular-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
 
-library.add(faFloppyDisk, faPaperPlane, faLightbulb, faCircleQuestion, faMap)
+library.add(faFloppyDisk, faPaperPlane, faLightbulb, faCircleQuestion, faMap, faRectangleList)
 
 export default FontAwesomeIcon

@@ -61,7 +61,7 @@ const listItens = [
   },
   {
     name: 'TIMELINE',
-    icon: ['far', 'floppy-disk']
+    icon: ['far', 'rectangle-list']
   },
   {
     name: 'ASSISTENTE',
